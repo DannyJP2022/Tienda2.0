@@ -1,0 +1,47 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 29 ene 2024, 03:55:16
+    Author     : Danny Jimenez
+*/
+
+footer p{
+    background-color: blue;
+    color: white;
+}
+
+h1,h2{
+    text-align: center;
+}
+
+h1{
+    background-color: black;
+    color: white;
+    font-size: 32px;
+}
+h2{
+    background-color: green;
+    color: yellow;
+     font-size: 24px;
+}
+
+.aviso{
+    background-color: green;
+    color: white;
+}
+
+#btnAlgo{
+    
+}
+table {
+    width: 90%;
+}
+thead tr{
+    background-color: black;
+    color: white;
+}
+tbody{
+    text-align: center;
+}
